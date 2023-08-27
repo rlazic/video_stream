@@ -1,0 +1,14 @@
+.stream {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+video {
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    width: 100%;
+  }
